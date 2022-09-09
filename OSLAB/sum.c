@@ -1,6 +1,8 @@
 #include<stdio.h>
 void main(){
-  int a;
-  int b;
+  int a=10;
+  int b=20;
+  int c;
+  c=a+b;
   printf(c);
 }
