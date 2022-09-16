@@ -5,6 +5,7 @@ Title of the experiment : implementing fcfs cpu sheduling algorithm
 //source code
 
 #include<stdio.h>
+#include<conio.h>
 main(){
   int bt[20],wt[20],tat[20],i,n;
   float wtavg,tatavg;
