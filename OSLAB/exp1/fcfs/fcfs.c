@@ -10,7 +10,7 @@ int main(){
   float wtavg,tatavg;
   printf("Enter no of processors :");
   scanf("%d",&n);
-  for(i=0;i<=n;i++){
+  for(i=0;i<n;i++){
     printf("The brust time for the processor-- %d",i);
     scanf("%d",&bt[i]);
   }
